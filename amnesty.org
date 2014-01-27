@@ -1,0 +1,2 @@
+* <2014-01-27 Mon>
+** TODO munge execution data from [[http://www.bjs.gov/index.cfm?ty=dcdetail&iid=253][here]] and [[http://www.deathpenaltyinfo.org/views-executions][here]]
