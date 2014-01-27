@@ -1,2 +1,5 @@
-* <2014-01-27 Mon>
+* Dataset Info
+** Death penalty UIs from 1997-2012
+** Execution database from 1997 (deathpenaltyinfo.org)* <2014-01-27 Mon>
 ** TODO munge execution data from [[http://www.bjs.gov/index.cfm?ty=dcdetail&iid=253][here]] and [[http://www.deathpenaltyinfo.org/views-executions][here]]
+
